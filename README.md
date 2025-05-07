@@ -1,2 +1,2 @@
 # MHANet
-MHANet: Multi-scale Hybrid Attention Network for Auditory Attention Detection
+The code will be available soon.
